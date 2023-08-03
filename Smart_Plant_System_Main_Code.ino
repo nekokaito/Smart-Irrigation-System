@@ -94,8 +94,6 @@ void setup() {
    lcd.setCursor(0, 1);
    lcd.print("     System     ");
   lcd.clear(); // Clear the preivous one :)
-   lcd.setCursor(11, 1);
-   lcd.print("W:OFF");
   //Call the function
   timer.setInterval(100L, soilMoistureSensor);
   timer.setInterval(100L, DHT22sensor);
