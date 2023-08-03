@@ -6,7 +6,7 @@
 - [Components](#components)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Code Contributors](#code-contributors)
+- [Contributors](#contributors)
 - [License](#license)
 
 ## Introduction
@@ -50,10 +50,15 @@ The Smart Irrigation System project requires the following components:
 4. The LCD display (if used) will show real-time data such as soil moisture, pump status, and Wi-Fi connectivity.
 5. Customize the watering schedules and thresholds according to your specific plant requirements.
 
-## Code Contributors
-• Abubakar Siddiq Sazzad aka Kaito [GitHub](https://github.com/nekokaito)
+## Contributors
+- [Prince Islam](https://www.facebook.com/Villaincause)
+- [Masud Rana](https://www.facebook.com/mrsahidsorkar1496)
+- [Raisul Islam](https://www.facebook.com/raisul026)
+- [Abubakar Siddiq Sazzad](https://www.facebook.com/siddiqsazzad) aka [Kaito](https://github.com/nekokaito)
+- [Ummay Zannat Tabnoom](https://www.facebook.com/ummay.tabnoom)
+- [Fowzia Tasmin](https://www.facebook.com/fowzia.tasmin.9)
+- [Adil Rahman](https://www.facebook.com/profile.php?id=100055499874907)
 
-• Prince Islam [Facebook](https://www.facebook.com/Villaincause)
 
 We welcome contributions from the open-source community. If you find any issues or have suggestions for improvement, please feel free to create a pull request.
 
