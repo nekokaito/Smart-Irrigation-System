@@ -144,7 +144,7 @@ void soilMoistureSensor() {
 void PIRsensor() {
   bool value = digitalRead(PIR);
   if (value) {
-    Blynk.logEvent("motion","WARNNG! Motion Detected!"); //Event Name
+    Blynk.logEvent("motion","WARNING! Motion Detected!"); //Event Name
     WidgetLED LED(V5);
     LED.on();
   } else {
@@ -196,7 +196,7 @@ void checkPhysicalButton() {
 
 void loop() {
 
-  // Motor Automatic On/Off
+  
     if (PIR_ToggleValue == 1)
     {
     lcd.setCursor(5, 1);
@@ -210,7 +210,7 @@ void loop() {
     WidgetLED LED(V5);
     LED.off();
      }
-
+// Motor Automatic On/Off
 if (relay1State == HIGH)
 {
   lcd.setCursor(11, 1);
