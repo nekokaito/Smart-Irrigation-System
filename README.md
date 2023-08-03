@@ -1,4 +1,5 @@
-# Smart Irrigation System - Arduino with ESP8266 NOD MCU
+# Smart Irrigation System 
+### Arduino with ESP8266 NOD MCU
 
 ## Table of Contents
 - [Introduction](#introduction)
