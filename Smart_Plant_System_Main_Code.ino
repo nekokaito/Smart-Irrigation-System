@@ -5,9 +5,9 @@
 
 
 // Blynk FIRMWARE CONFIGURATION
-#define BLYNK_TEMPLATE_ID "TMPL6tQCwAGbZ"
+#define BLYNK_TEMPLATE_ID " "
 #define BLYNK_TEMPLATE_NAME "Smart Irrigation System"
-#define BLYNK_AUTH_TOKEN "GVJc7ErICorh5NpgjKfot_PVyO_bUU00"
+#define BLYNK_AUTH_TOKEN " "
 #define BLYNK_PRINT Serial
 #define DHTTYPE DHT22 
 // Component pins
@@ -42,9 +42,9 @@ LiquidCrystal_I2C lcd(0x27, 16, 2);
 
 // Wifi Information
 
-char auth[] = "GVJc7ErICorh5NpgjKfot_PVyO_bUU00";  //Blynk Auth token
-char ssid[] = "Siddiq Sazzad";  //WIFI SSID
-char pass[] = "lol@#$789";  //WIFI Password
+char auth[] = " ";  //Blynk Auth token
+char ssid[] = " ";  //WIFI SSID
+char pass[] = " ";  //WIFI Password
 
 // DHT Information
 
@@ -57,7 +57,7 @@ int PIR_ToggleValue = 0;
 
 void checkPhysicalButton();
 int relay1State = LOW;
-int pushButton1State = HIGH;
+int pushButton1State = LOW;
 
 
 //Create three variables for pressure
