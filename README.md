@@ -52,7 +52,7 @@ The Smart Irrigation System project requires the following components:
 5. Customize the watering schedules and thresholds according to your specific plant requirements.
 
 ## Contributors
-- [Nahidul Islam Prince](https://www.facebook.com/Villaincause) also [villaincause] (https://github.com/villaincause)
+- [Nahidul Islam Prince](https://www.facebook.com/Villaincause) also [villaincause](https://github.com/villaincause)
 - [Masud Rana](https://www.facebook.com/mrsahidsorkar1496)
 - [Raisul Islam](https://www.facebook.com/raisul026)
 - [Abubakar Siddiq Sazzad](https://www.facebook.com/siddiqsazzad) aka [Kaito](https://github.com/nekokaito)
